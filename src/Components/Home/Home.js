@@ -44,14 +44,14 @@ function Home() {
                    <Product title="ASUS TUF Gaming A15 Laptop 15.6'' FHD 144Hz Ryzen 7 4800H, GTX 1650Ti 4GB Graphics (8GB RAM/1TB HDD + 256GB NVMe SSD/Windows 10/Bonfire Black/2.30 Kg), FA506II-HN153T"
                    id="946683754"
                     image="ASUS_A15.jpg"
-                    price={64+","+999}
+                    price={64999}
                     rating={5}/>
                    
                     
                     <Product title="Samsung Galaxy Smart Watch"
                     id="674837546"
                     image="Samsung_Smart_Watch.jpg"
-                    price={24+","+999}
+                    price={24999}
                     rating={4}/>
                 </div>
 
@@ -59,7 +59,7 @@ function Home() {
                     <Product title="SAMSUNG 49-inch Odyssey G9 - QHD, 240hz, 1000R Curved Gaming Monitor, 1ms, NVIDIA G-SYNC & FreeSync, QLED (LC49G95TSSNXZA)"
                     id="245533366"
                     image="odyssey.jpg"
-                    price={1+","+20+","+717.14}
+                    price={120717.14}
                     rating={3}/>
                 </div>
             </div>
