@@ -13,20 +13,13 @@ function Home() {
             
 
                 <div className="home__row">
-                    <Product title="mamaearth Winter Essential Kit for Babies. (Deeply Nourishing Body Wash - 200ml 
-                    Moisturizing Daily Lotion - 200ml 
-                    Gentle Cleansing Shampoo - 200ml
-                    Berry Blast Toothpaste – 50gm
-                    Anti-Mosquito Fabric Roll-On – 8ml
-                    Plant-Based Laundry Detergent – 200ml
-                    Milky Soft Face Cream – 60ml
-                    Baby Backpack Bag)"
+                    <Product title="mamaearth Winter Essential Kit for Babies. (Deeply Nourishing Body Wash - 200ml and 7 other items."
                     id="129867876"
                     image="winter_care.jpg"
                     price={999}
                     rating={4}/>
                     
-                    <Product title="PLUM Acne-Fighting Combo. A 3-step regime to fight acne & acne-spots at every stage, comprising our bestselling pore cleansing face wash."
+                    <Product title="PLUM Acne-Fighting Combo. A 3-step regime to fight acne & acne-spots at every stage, our bestselling pore cleansing face wash."
                     id="341986345"
                     image="plum_kit.jpg"
                     price={1199.99}
@@ -41,14 +34,14 @@ function Home() {
                     price={349.00}
                     rating={2}/>
                    
-                   <Product title="ASUS TUF Gaming A15 Laptop 15.6'' FHD 144Hz Ryzen 7 4800H, GTX 1650Ti 4GB Graphics (8GB RAM/1TB HDD + 256GB NVMe SSD/Windows 10/Bonfire Black/2.30 Kg), FA506II-HN153T"
+                   <Product title="ASUS TUF Gaming A15 Laptop 15.6'' FHD 144Hz Ryzen 5 4800H (8GB RAM/1TB HDD + 256GB NVMe SSD/Windows 10/Bonfire Black/4GB nvidia)."
                    id="946683754"
                     image="ASUS_A15.jpg"
                     price={64999}
                     rating={5}/>
                    
                     
-                    <Product title="Samsung Galaxy Smart Watch"
+                    <Product title="Samsung Galaxy Smart Watch (Powered with Android 10 - Manage Incoming Calls and Messages on your wrists)."
                     id="674837546"
                     image="Samsung_Smart_Watch.jpg"
                     price={24999}
@@ -56,7 +49,7 @@ function Home() {
                 </div>
 
                 <div className="home__row">
-                    <Product title="SAMSUNG 49-inch Odyssey G9 - QHD, 240hz, 1000R Curved Gaming Monitor, 1ms, NVIDIA G-SYNC & FreeSync, QLED (LC49G95TSSNXZA)"
+                    <Product title="SAMSUNG 49-inch Odyssey G9 - QHD, 240hz, 1000R Curved Gaming Monitor, 1ms, NVIDIA G-SYNC & FreeSync, QLED (LC49G95TSSNXZA)."
                     id="245533366"
                     image="odyssey.jpg"
                     price={120717.14}
