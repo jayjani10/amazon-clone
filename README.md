@@ -1,7 +1,7 @@
 # Amazon Clone
 <h4>Amazon Clone Full Stack Application. (ReactJS, Express, Node.js and Firebase🔥)</h4>
 
-<h3>Check this URL: https://clone-b1ab4.firebaseapp.com</h3>
+<p>Check this URL: <a href="https://clone-b1ab4.firebaseapp.com" target="_blank">https://clone-b1ab4.firebaseapp.com</a></p>
 
 <h1>Steps</h1>
 <h3>1) Login or Signup</h3>
@@ -16,4 +16,5 @@
 <h3>4) View all your orders</h3>
 <img src="Images/Orders.JPG" width="800"/>
 
-<h2><a href="https://clone-b1ab4.firebaseapp.com/">DEMO LINK </a>here</h2>
+<h2><a href="https://clone-b1ab4.firebaseapp.com/" target="_blank">DEMO LINK </a>here</h2>
+
